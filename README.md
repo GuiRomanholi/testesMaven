@@ -9,11 +9,4 @@ Este é um projeto desenvolvido por dois alunos da instituição [Fiap].
  
 ## Descrição
  
-Testes Unitarios feitos para as funções.
- 
-## Tecnologias Utilizadas
- 
-- [Java]
-- [Java]
-- [Java]
- 
+Atividade valendo 2 Pts para a CP de Qa sobre testes unitários sendo feita com Maven 
